@@ -6,7 +6,6 @@ order: 1
 Content is written in [Markdown](https://learnxinyminutes.com/docs/markdown/).
 Plain text format allows you to focus on your **content**.
 
-{{ page.url }}
 <!--
 You can use HTML elements in Markdown, such as the comment element, and they won't
 be affected by a markdown parser. However, if you create an HTML element in your
