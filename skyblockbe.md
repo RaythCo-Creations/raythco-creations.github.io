@@ -1,9 +1,9 @@
 ---
 title: "Skyblock: Bedrock Edition"
-layout: home
+layout: default_no_title
 permalink: /downloads/skyblockbe
 ---
-<center>![Skyblock: Bedrock Edition Logo][skyblocklogo]</center>
+<p align="center"><img src="../assets/img/downloads/skyblockbe.png" alt="Skyblock: Bedrock Edition Logo"/></p>
+
 Coming soon!
 
-[skyblocklogo]: assets/img/downloads/skyblockbe.png "Skyblock: Bedrock Edition Logo"
