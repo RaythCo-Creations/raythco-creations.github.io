@@ -9,6 +9,7 @@ I've now created the new RaythCo website and complete with a new URL! You can ac
 <!--more-->
 
 This site will be used for myself, and a team in the future if we form one, to release software and addons. This includes, but is not limited to:
+
 * Minecraft Bedrock Addons
 * Minecraft Bedrock Resource Packs
 * Minecraft Bedrock Behaviour Packs
@@ -18,7 +19,3 @@ This site will be used for myself, and a team in the future if we form one, to r
   * Cubedhost Server Management Software
 
 Hopefully over time, more stuff will be available and I hope you enjoy everything I do :)
-
-[jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
