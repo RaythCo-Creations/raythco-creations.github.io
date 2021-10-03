@@ -1,14 +1,26 @@
 <div id="leftside">
 		<h2 class="hide">Navigation</h2>
-		<ul class="avmenu">
-    {% assign mypages = site.pages | sort: "order" %}
-    {% for page in mypages %}
-	{% if page.url contains ".xml" or page.url contains ".css" %}
-	{% else %}
-    <li><a href="{{ page.url | absolute_url }}">{{ page.title }}</a></li>
-	{% endif %}
-    {% endfor %}
-		</ul>
+		{% if site.data.nav.toc2[0] %}
+  {% for item in site.data.nav.toc2 %}
+    <ul class="avmenu">
+      {% if item.subfolderitems[0] %}
+        <ul>
+          {% for entry in item.subfolderitems %}
+              <li><a href="{{ entry.url }}">{{ entry.page }}</a>
+                {% if entry.subsubfolderitems[0] %}
+                  <ul>
+                  {% for subentry in entry.subsubfolderitems %}
+                      <li><a href="{{ subentry.url }}">{{ subentry.page }}</a></li>
+                  {% endfor %}
+                  </ul>
+                {% endif %}
+              </li>
+          {% endfor %}
+        </ul>
+      {% endif %}
+    </ul>
+	{% endfor %}
+{% endif %}
 
 		<div class="announce">
 			<h2>Latest news:</h2>
