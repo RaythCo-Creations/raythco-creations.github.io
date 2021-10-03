@@ -10,7 +10,7 @@ permalink: /downloads/skyblockbe
 If there are any issues, or you suspect a block is missing, join the discord and let us know!
 
 # Entire List of Changes
-> **__Mob Drops__**
+> **Mob Drops**
 > * Husks will now drop sand.
 > * Spiders have a chance to drop a cobweb upon death
 > * Drowned can drop clay balls on death
@@ -18,11 +18,11 @@ If there are any issues, or you suspect a block is missing, join the discord and
 > * Wither drops 1 Netherite Block
 > * Bats have a chance to drop Leather
 > 
-> __**Mob Behavioral Changes**__
+> **Mob Behavioral Changes**
 > * Cave spiders can now Spawn on the surface, just like normal spiders.
 > * Withers will no longer suffocate inside blocks.
 > 
-> __**Crafting Changes**__
+> **Crafting Changes**
 > * Mycelium can be crafted with 1 dirt and 1 brown mushroom
 > * Enchanted Golden Apple can be crafted with 1 Golden Apple and 8 Gold Blocks
 > * Red Sand may be crafted from 1 red dye and 8 normal sand
@@ -35,7 +35,7 @@ If there are any issues, or you suspect a block is missing, join the discord and
 >    * Nether Gold Ore may be crafted with netherrack instead of stone in the Gold Ore recipe.
 >    * Nether Quartz Ore may be crafted with 1 Quartz Block and 8 Netherrack.
 >
-> __**Custom Trader**__
+> **Custom Trader**
 > * Has a chance of spawning every day, and will despawn at sunrise if he does.
 > * Uses Custom Skin
 > * Trades
@@ -57,13 +57,13 @@ If there are any issues, or you suspect a block is missing, join the discord and
 >       * Sponges - 3 for 10 Diamonds
 >       * Turtle Egg - 32 Diamonds Each
 > 
-> __**Villager Trade Modification**__
+> **Villager Trade Modification**
 > * Stone Mason
 >    * Replaced Emerald > Quartz trade with Calcite and Tuff
 > * Cartographer
 >    * Added Snout banner pattern to trades.
 > 
-> __**Piglin Barters**__
+> **Piglin Barters**
 > * Now gives:
 >    * Cobbled Deepslate
 >    * Netherrack
