@@ -3,11 +3,8 @@ title: Home
 layout: home
 order: 1
 ---
-Content is written in [Markdown](https://learnxinyminutes.com/docs/markdown/).
-Plain text format allows you to focus on your **content**.
+Welcome to **RaythCo**!
 
-<!--
-You can use HTML elements in Markdown, such as the comment element, and they won't
-be affected by a markdown parser. However, if you create an HTML element in your
-markdown file, you cannot use markdown syntax within that element's contents.
--->
+This is my new website where I will be uploading all my creations, and in the future, those of my team if we form one. These will range from Minecraft Bedrock addons, resource packs, worlds, to other things such as discord bots, server management bots etc.
+
+Keep checking back regularly to ensure you stay up to date.
