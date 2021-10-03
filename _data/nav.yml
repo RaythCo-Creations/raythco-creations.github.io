@@ -5,6 +5,8 @@ toc2:
         url: /
       - page: Blog
         url: /blog
-        subsubfolderitems:
-          - page: Test
-            url: /blog/test
+      - page: Downloads
+        url: /downloads
+        subfolderitems:
+          page: "Skyblock: Bedrock Edition"
+          url: /downloads/skyblockbe
