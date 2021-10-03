@@ -1,0 +1,20 @@
+<div id="leftside">
+		<h2 class="hide">Navigation</h2>
+		<ul class="avmenu">
+    {% assign mypages = site.pages | sort: "order" %}
+    {% for page in mypages %}
+	{% if page.url contains ".xml" or page.url contains ".css" %}
+	{% else %}
+    <li><a href="{{ page.url | absolute_url }}">{{ page.title }}</a></li>
+	{% endif %}
+    {% endfor %}
+		</ul>
+
+		<div class="announce">
+			<h2>Latest news:</h2>
+			{% for post in site.posts limit:1 %}
+			<p><strong>{{ post.date | date: "%b %-d, %Y" }}</strong><br>
+			<a href="{{ post.url }}">{{ post.title}}</a></p>
+			{% endfor %}
+		</div>
+	</div>
