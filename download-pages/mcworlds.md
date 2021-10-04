@@ -1,6 +1,6 @@
 ---
 title: "Minecraft Worlds - Downloads"
-layout: home
+layout: downloads
 permalink: /downloads/mcworlds
 ---
 
