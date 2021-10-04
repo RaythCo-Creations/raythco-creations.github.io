@@ -10,3 +10,15 @@ toc2:
         subsubfolderitems:
           - page: "Skyblock: BE"
             url: /downloads/skyblockbe
+
+dlpages:
+  - title: Minecraft Worlds
+    url: /downloads/mcworlds
+  - title: Minecraft Addons
+    url: /downloads/mcaddons
+  - title: Minecraft Resources
+    url: /downloads/mcresources
+  - title: Behavior Packs
+    url: /downloads/mcbehavior
+  - title: Non-Minecraft
+    url: /downloads/other
