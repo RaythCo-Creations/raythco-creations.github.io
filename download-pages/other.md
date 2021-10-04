@@ -1,7 +1,7 @@
 ---
 title: "Minecraft Worlds - Downloads"
 layout: downloads
-permalink: /downloads/mcworlds
+permalink: /downloads/other
 ---
 
 On this page you can find a list of all the available world downloads on this website. Please refer to the list below.
