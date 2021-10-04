@@ -4,7 +4,7 @@ layout: default_no_title
 permalink: /downloads/mcworlds/skyblockbe
 category: mcworlds
 ---
-<p align="center"><img src="../assets/img/downloads/skyblockbe.png" alt="Skyblock: Bedrock Edition Logo"/></p>
+<p align="center"><img src="../../assets/img/downloads/skyblockbe.png" alt="Skyblock: Bedrock Edition Logo"/></p>
 
 **Skyblock: Bedrock Edition** is a complete remake and rebranding of Rayth Skyblock. Completely created from scratch with it's own custom addon and world generation. Containing all biomes in large multi-chunk areas, all structures so you can get structure spawns and every block available from Minecraft 1.17.
 
