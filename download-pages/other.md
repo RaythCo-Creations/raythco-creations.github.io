@@ -1,5 +1,5 @@
 ---
-title: "Minecraft Worlds - Downloads"
+title: "Non-Minecraft - Downloads"
 layout: downloads
 permalink: /downloads/other
 ---

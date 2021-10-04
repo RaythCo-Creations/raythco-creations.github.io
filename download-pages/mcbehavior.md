@@ -1,12 +1,12 @@
 ---
-title: "Minecraft Worlds - Downloads"
+title: "Minecraft Behavior Pack - Downloads"
 layout: downloads
 permalink: /downloads/mcbehavior
 ---
 
 On this page you can find a list of all the available world downloads on this website. Please refer to the list below.
 
-## Minecraft Bheavior Pack Download
+## Minecraft Behavior Pack Download
 
 {% for item in site.data.downloads.mcbehavior %}
 
