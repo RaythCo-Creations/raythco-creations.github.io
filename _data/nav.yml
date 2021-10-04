@@ -8,8 +8,16 @@ toc2:
       - page: Downloads
         url: /downloads
         subsubfolderitems:
-          - page: "Skyblock: BE"
-            url: /downloads/skyblockbe
+          - page: "Minecraft Worlds"
+            url: /downloads/mcworlds
+          - page: "Minecraft Addons"
+            url: /downloads/mcaddons
+          - page: "Minecraft Resources"
+            url: /downloads/mcresources
+          - page: "Minecraft Behaviors"
+            url: /downloads/mcbehavior
+          - page: "Non-Minecraft"
+            url: /downloads/other
 
 dlpages:
   - title: Minecraft Worlds
