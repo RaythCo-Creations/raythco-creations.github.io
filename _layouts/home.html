@@ -7,6 +7,6 @@ layout: default
 {% for post in site.posts limit:1 %}
 <h3><a href="{{ post.url }}">{{ post.title}}</a></h3>
 <p><strong>{{ post.date | date: "%b %-d, %Y" }}</strong></p>
-<p>{{ post.excerpt }}</p>
+<p>{{ post.excerpt }}<br/><br/><a href="{{ post.url }}"> Read More >></a>>a</a></p>
 {% endfor %}
 
