@@ -77,6 +77,51 @@ If there are any issues, or you suspect a block is missing, join the discord and
 >   * Netherrack
 >   * Low weighted Ancient Debris
 
+## Structures in World
+
+| Structure       |     X |   Y |   Z |
+|:----------------|------:|----:|----:|
+| NetherFortress  |  -808 |  59 | 776 |
+| NetherFortress  |  -808 |  59 | 792 |
+| NetherFortress  |  -808 |  59 | 808 |
+| NetherFortress  |  -808 |  59 | 819 |
+| NetherFortress  |  -792 |  59 | 776 |
+| NetherFortress  |  -792 |  59 | 792 |
+| NetherFortress  |  -792 |  59 | 808 |
+| NetherFortress  |  -792 |  59 | 819 |
+| NetherFortress  |  -776 |  59 | 776 |
+| NetherFortress  |  -776 |  59 | 792 |
+| NetherFortress  |  -776 |  59 | 808 |
+| NetherFortress  |  -776 |  59 | 819 |
+| NetherFortress  |  -768 |  59 | 776 |
+| NetherFortress  |  -768 |  59 | 792 |
+| NetherFortress  |  -768 |  59 | 808 |
+| NetherFortress  |  -768 |  59 | 819 |
+| OceanMonument   |  2008 |  59 |   8 |
+| OceanMonument   |  2008 |  59 |  24 |
+| OceanMonument   |  2008 |  59 | -24 |
+| OceanMonument   |  2008 |  59 |  -8 |
+| OceanMonument   |  2024 |  59 |   8 |
+| OceanMonument   |  2024 |  59 |  24 |
+| OceanMonument   |  2024 |  59 | -24 |
+| OceanMonument   |  2024 |  59 |  -8 |
+| OceanMonument   |  2040 |  59 |   8 |
+| OceanMonument   |  2040 |  59 |  24 |
+| OceanMonument   |  2040 |  59 | -24 |
+| OceanMonument   |  2040 |  59 |  -8 |
+| OceanMonument   |  2056 |  59 |   8 |
+| OceanMonument   |  2056 |  59 |  24 |
+| OceanMonument   |  2056 |  59 | -24 |
+| OceanMonument   |  2056 |  59 |  -8 |
+| PillagerOutpost | -2056 |  56 |   8 |
+| PillagerOutpost | -2056 |  56 |  16 |
+| PillagerOutpost | -2048 |  56 |   8 |
+| PillagerOutpost | -2048 |  56 |  16 |
+| SwampHut        |   808 |  56 | 808 |
+| SwampHut        |   808 |  56 | 816 |
+| SwampHut        |   816 |  56 | 808 |
+| SwampHut        |   816 |  56 | 816 |
+
 ## Download
 
 Download Coming Soon
