@@ -25,6 +25,7 @@ If there are any issues, or you suspect a block is missing, join the discord and
 >
 > * Cave Spiders can now Spawn on the surface, just like normal Spiders.
 > * Withers will no longer suffocate inside blocks.
+> * Axolotl no longer require lush caves for spawning. Will now spawn below ground in water.
 >
 > **Crafting Changes**
 >
@@ -121,6 +122,31 @@ If there are any issues, or you suspect a block is missing, join the discord and
 | SwampHut        |   808 |  56 | 816 |
 | SwampHut        |   816 |  56 | 808 |
 | SwampHut        |   816 |  56 | 816 |
+
+## Biome Location
+
+| Biome                    | X Range        | Z Range        |
+|:-------------------------|---------------:|---------------:|
+| River                    | -208 to 207    | -208 to 207    |
+| Cold Taiga               | -192 to 192    | -192 to 191    |
+| Desert                   | -192 to 191    | -592 to -209   |
+| Bamboo Jungle            | -592 to -209   | -592 to -209   |
+| Flower Forest            | 608 to 991     | -192 to 191    |
+| Swampland                | 608 to 991     | 608 to 991     |
+| Savanna                  | -2240 to -1857 | -192 to 191    |
+| Ocean                    | 1856 to 2239   | -192 to 191    |
+| Frozen Ocean             | -192 to 191    | -2240 to -1857 |
+| Warm Ocean               | 1856 to 2239   | 1856 to 2239   |
+| Ice Mountains            | -192 to 191    | 1856 to 2239   |
+| Mushroom Island          | -192 to 191    | -3264 to -2881 |
+| Frozen River             | -2240 to -1857 | -3264 to -2881 |
+| Beach                    | 1856 to 2239   | -3264 to -2881 |
+| Warm Ocean               | -2240 to -1857 | -2240 to -1857 |
+| Frozen Ocean             | -2240 to -1857 | 1856 to 2239   |
+| Nether - Hell            | -208 to 207    | -208 to 207    |
+| Nether - Warped Forest   | 608 to 991     | -976 to -593   |
+| Nether - Soulsand Valley | -976 to -593   | -976 to -593   |
+| Nether - Crimson Forest  | 608 to 991     | 608 to 991     |
 
 ## Download
 
