@@ -11,5 +11,11 @@ mcbehavior:
   - title: "Decay Potion Brewing"
     url: /downloads/mcbehavior/decay-potion-brewing
     description: "Brew Potions of Decay"
+  - title: "Dragon Elytra Dropping"
+    url: /downloads/mcbehavior/dragon-elytra-drop
+    description: "Make the Ender Dragon drop 1 Elytra"
+  - title: "More Stairs Crafting"
+    url: /downloads/mcbehavior/more-stairs
+    description: "Craft 6 stairs instead of 4 on a crafting table"
 
 other:
