@@ -8,5 +8,8 @@ mcaddons:
 mcresources:
 
 mcbehavior:
+  - title: "Decay Potion Brewing"
+    url: /downloads/mcbehavior/decay-potion-brewing
+    description: "Brew Potions of Decay"
 
 other:
