@@ -9,4 +9,4 @@ With this behavior pack, you can now craft 6 stairs instead of 4 when using a cr
 
 ## Download
 
-*Coming Soon*
+[**Click Here**](https://github.com/RaythCo-Creations/downloads/raw/main/behavior-packs/RC%20More%20Stairs.mcpack)
