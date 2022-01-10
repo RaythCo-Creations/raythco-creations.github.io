@@ -4,7 +4,7 @@ layout: downloads
 permalink: /downloads/mcbehavior
 ---
 
-On this page you can find a list of all the available world downloads on this website. Please refer to the list below.
+On this page you can find a list of all the available behavior packs on this website. Please refer to the list below.
 
 {% for item in site.data.downloads.mcbehavior %}
 
