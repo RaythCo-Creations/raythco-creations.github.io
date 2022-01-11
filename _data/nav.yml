@@ -18,6 +18,8 @@ toc2:
             url: /downloads/mcbehavior
           - page: "Non-Minecraft"
             url: /downloads/other
+      - page: Discord
+        url: https://discord.gg/5898mQEaTp
 
 dlpages:
   - title: Minecraft Worlds
