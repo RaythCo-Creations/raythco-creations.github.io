@@ -17,5 +17,11 @@ mcbehavior:
   - title: "More Stairs Crafting"
     url: /downloads/mcbehavior/more-stairs
     description: "Craft 6 stairs instead of 4 on a crafting table"
+  - title: "Java Wither Parity"
+    url: /downloads/mcbehavior/wither-parity
+    description: "Make the bedrock wither match Java as much as possible"
+  - title: "No Maps"
+    url: /downloads/mcbehavior/no-maps
+    description: "Make maps unobtainable in game"
 
 other:
