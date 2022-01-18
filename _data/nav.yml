@@ -18,6 +18,13 @@ toc2:
             url: /downloads/mcbehavior
           - page: "Non-Minecraft"
             url: /downloads/other
+      - page: PteroBot
+        url: /pterobot
+        subfolderitems:
+          - page: "Bot Setup"
+          - url: /pterobot/setup
+          - page: "Commands"
+          - url: /pterobot/commands
       - page: Discord
         url: https://discord.gg/5898mQEaTp
 
