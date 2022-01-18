@@ -17,8 +17,11 @@ Once the bot is on the discord server, the server owner can configure the bot us
 <img src="../../assets/img/pterobot/configure.png" alt="Configure Screenshot"/>
 
 __Parameters__
+
 APIUrl: This can be taken from your host. Please do **not** include the trailing slash.
 * Known API Urls:
     * Cluckhost: https://panel.cluckhost.com
 
 APIKey: This is generated in your hosting panel under account settings and API Credentials. When creating an API key, either leave allowed IP's blank, or enter **89.40.12.101** which is the bots IP Address.
+
+*Note when using slash commands, press tab after entering a parameter to move to the next parameter.

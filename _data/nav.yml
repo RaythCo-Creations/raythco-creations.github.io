@@ -22,9 +22,9 @@ toc2:
         url: /pterobot
         subsubfolderitems:
           - page: "Bot Setup"
-          - url: /pterobot/setup
+            url: /pterobot/setup
           - page: "Commands"
-          - url: /pterobot/commands
+            url: /pterobot/commands
       - page: Discord
         url: https://discord.gg/5898mQEaTp
 
