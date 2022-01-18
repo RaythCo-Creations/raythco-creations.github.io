@@ -24,4 +24,24 @@ APIUrl: This can be taken from your host. Please do **not** include the trailing
 
 APIKey: This is generated in your hosting panel under account settings and API Credentials. When creating an API key, either leave allowed IP's blank, or enter **89.40.12.101** which is the bots IP Address.
 
-*Note when using slash commands, press tab after entering a parameter to move to the next parameter.
+*Note when using slash commands, press tab after entering a parameter to move to the next parameter.*
+
+### Adding a minecraft server
+
+Once configured, you can start adding minecraft servers to the database using the **/add-server** command:
+
+<img src="../../assets/img/pterobot/add-server.png" alt="Add-Server Screenshot"/>
+
+__Parameters__
+
+ServerID: This is the unique server ID to identify the server on your panel. It can be found in the address bar when viewing a server console as url.url/server/**SERVERID**
+
+ServerName: Server name to internally define your server. This must be unique and you'll need to remember this.
+
+ServerType: Java or Bedrock. Choices are provided when entering this parameter
+
+*Note when using slash commands, press tab after entering a parameter to move to the next parameter.*
+
+### Final Notes
+
+Your server is now configured to use. Check the [Commands](../../pterobot/commands) page for a full list of commands.
