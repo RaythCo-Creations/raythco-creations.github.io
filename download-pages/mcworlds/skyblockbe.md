@@ -150,4 +150,4 @@ If there are any issues, or you suspect a block is missing, join the discord and
 
 ## Download
 
-Download Coming Soon
+[**Click Here**](https://github.com/RaythCo-Creations/downloads/raw/main/worlds/Skyblock_%20Bedrock%20Edition.mcworld)
