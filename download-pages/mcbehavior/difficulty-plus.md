@@ -40,6 +40,10 @@ This is the difficulty used by [Prowl8413](http://youtube.com/prowl8413) in his 
 - Mobs have a 100% chance of spawning with enchanted armor/gear
 - Insomnia is ALWAYS
 
+## Notes
+
+Regarding mob spawning with enchanted armor/gear: Some mobs may not always spawn with armor (zombies/skeletons etc) but any gear or weapons they do spawn with will be enchanted.
+
 ## Download
 
 [**Coming Soon**](#)
