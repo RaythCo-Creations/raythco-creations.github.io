@@ -45,6 +45,8 @@ This is the difficulty of my SMP server that my patrons have access to. Join the
 
 Regarding mob spawning with enchanted armor/gear: Some mobs may not always spawn with armor (zombies/skeletons etc) but any gear or weapons they do spawn with will be enchanted.
 
+When you load this pack, it will default to godlike difficulty. You can change this by clicking the cog icon under "active packs" in your world settings.
+
 ## Download
 
 [Click Here](https://github.com/RaythCo-Creations/downloads/raw/main/behavior-packs/RC%20Difficulty%2B.mcpack)
