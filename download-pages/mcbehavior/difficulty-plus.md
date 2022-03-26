@@ -33,6 +33,7 @@ This is the difficulty used by [Prowl8413](http://youtube.com/prowl8413) in his 
 
 ## Godlike Mode
 
+This is the difficulty of my SMP server that my patrons have access to. Join the discord and sign up on patreon to join (Silver level or higher)
 - Mobs do 200% more damage and have 200% more health.
 - Ender dragon has 1000 health and increased damage.
 - Wither has 2000 health and increased damage.
@@ -46,4 +47,4 @@ Regarding mob spawning with enchanted armor/gear: Some mobs may not always spawn
 
 ## Download
 
-[**Coming Soon**](#)
+[Click Here](https://github.com/RaythCo-Creations/downloads/raw/main/behavior-packs/RC%20Difficulty%2B.mcpack)
