@@ -4,7 +4,10 @@ mcworlds:
     description: "Enter the ultimate Skyblock experience, specifically designed for Minecraft: Bedrock Edition."
 
 mcaddons:
-
+  - title: "Empire Soldiers"
+    url: /downloads/mcaddons/empire-soldiers
+    description: "Dummy entities to make your world seem populated."
+    
 mcresources:
 
 mcbehavior:

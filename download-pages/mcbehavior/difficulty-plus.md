@@ -50,3 +50,8 @@ When you load this pack, it will default to godlike difficulty. You can change t
 ## Download
 
 [Click Here](https://github.com/RaythCo-Creations/downloads/raw/main/behavior-packs/RC%20Difficulty%2B.mcpack)
+
+## Changelog
+
+- v 1.2.0 - Update to files for Minecraft 1.18.30
+- v 1.0.0 - Initial Release
