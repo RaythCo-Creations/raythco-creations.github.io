@@ -6,6 +6,8 @@ category: mcaddons
 ---
 # Empire Soldiers
 
+> Note: Please be aware that to use this addon, you must enable the "Holiday Creator Features" experimental toggle in your world settings
+
 Are you building multiple kingdoms, or even just a single kingdom and want some "soldiers" to look like you have an army? This addon is for you!
 
 Included in this addon is 4 different colours of troops, each with Knights (riding horses), Archers and Soldiers. Note, these troops will not move or look around.
@@ -39,7 +41,7 @@ As these entities are immune to all damage, you can remove them by "crouch, righ
 
 ## Download
 
-[**Coming Soon**](#)
+[**Click here**](https://github.com/RaythCo-Creations/downloads/raw/main/addons/RC%20Empire%20Soldiers.mcaddon)
 
 ## Changelog
 
