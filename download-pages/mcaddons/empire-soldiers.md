@@ -43,4 +43,6 @@ As these entities are immune to all damage, you can remove them by "crouch, righ
 
 ## Changelog
 
+- v 1.2.0 - Addition of Green & Yellow Armies
+- v 1.1.0 - Bug fixes
 - v 1.0.0 - Initial Release
