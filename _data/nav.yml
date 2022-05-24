@@ -5,6 +5,8 @@ toc2:
         url: /
       - page: Blog
         url: /blog
+      - page: Contributors
+        url: /contributors
       - page: Downloads
         url: /downloads
         subsubfolderitems:
