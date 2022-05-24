@@ -12,7 +12,7 @@ Below is a list of all members/staff who have contributed to various downloads o
 
 Title: Founder, Programmer & Addon Developer
 
-### ![CrazyLogo](/assets/img/downloads/skyblockbe.png) [CrazyBreeze1074](https://github.com/Breeze1074)
+### ![CrazyLogo](/assets/img/breeze1074.png) [CrazyBreeze1074](https://github.com/Breeze1074)
 
 Title: Guy that does weird things
 
