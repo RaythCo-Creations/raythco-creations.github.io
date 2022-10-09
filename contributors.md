@@ -20,5 +20,10 @@ Title: Guy that does weird things
 
 Title: Texture Creator
 
+### [GoldenHelmet](https://youtube.com/channel/UCcrW5iYh_4Z2pXZwu-vFUkw)
+
+Title: N/A
+Assisted with the Daytime Monsters behavior pack. Minecraft Bug Tracker Moderator.
+
 ****************
 

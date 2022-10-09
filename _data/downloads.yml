@@ -7,13 +7,22 @@ mcaddons:
   - title: "Empire Soldiers"
     url: /downloads/mcaddons/empire-soldiers
     description: "Dummy entities to make your world seem populated."
+  - title: "Hardercore"
+    url: /downloads/mcaddons/hardercore
+    description: "Hardcore style addon for Bedrock Edition"
     
 mcresources:
 
 mcbehavior:
+  - title: "Daytime Monsters"
+    url: /downloads/mcbehavior/daytime-monsters
+    description: "Allow monsters to spawn during the day"
   - title: "Decay Potion Brewing"
     url: /downloads/mcbehavior/decay-potion-brewing
     description: "Brew Potions of Decay"
+  - title: "Difficulty+"
+    url: /downloads/mcbehavior/difficulty-plus
+    description: "Advanced difficulties."
   - title: "Dragon Elytra Dropping"
     url: /downloads/mcbehavior/dragon-elytra-drop
     description: "Make the Ender Dragon drop 1 Elytra"
@@ -23,8 +32,5 @@ mcbehavior:
   - title: "No Maps"
     url: /downloads/mcbehavior/no-maps
     description: "Make maps unobtainable in game"
-  - title: "Difficulty+"
-    url: /downloads/mcbehavior/difficulty-plus
-    description: "Advanced difficulties."
 
 other:
