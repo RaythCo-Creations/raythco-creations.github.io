@@ -19,4 +19,5 @@ Hardercore is a new version of Hardcore for Bedrock.
 
 ## Changelog
 
-- v 1.0.1 - Release
+- v 1.0.2 - Release
+- v 1.0.3 - Phantom Bug Fix

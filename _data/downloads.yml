@@ -9,6 +9,9 @@ mcaddons:
     description: "Dummy entities to make your world seem populated."
   - title: "Hardercore"
     url: /downloads/mcaddons/hardercore
+    description: "Hardercore style addon for Bedrock Edition"
+  - title: "Hardcore"
+    url: /downloads/mcaddons/hardcore
     description: "Hardcore style addon for Bedrock Edition"
     
 mcresources:
